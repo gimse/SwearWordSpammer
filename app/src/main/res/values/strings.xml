@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Swear Word Spammer</string>
-    <string name="number">Number</string>
+    <string name="number">Phone Number</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
-    <string name="interval">Interval</string>
+    <string name="interval">Time Delay in Seconds</string>
 </resources>
