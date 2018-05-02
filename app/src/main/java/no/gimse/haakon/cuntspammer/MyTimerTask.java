@@ -1,7 +1,5 @@
 package no.gimse.haakon.cuntspammer;
 
-import android.os.Handler;
-import android.widget.Toast;
 
 import java.util.TimerTask;
 

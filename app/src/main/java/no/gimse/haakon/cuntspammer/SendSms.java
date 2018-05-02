@@ -1,8 +1,6 @@
 package no.gimse.haakon.cuntspammer;
 
-import android.content.Context;
 import android.telephony.SmsManager;
-import android.widget.ImageView;
 import android.widget.Toast;
 
 /**
