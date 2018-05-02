@@ -1,10 +1,7 @@
 package no.gimse.haakon.cuntspammer;
 
 import android.Manifest;
-import android.content.res.Resources;
-import android.os.Handler;
-import android.os.Looper;
-import android.os.Message;
+
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
