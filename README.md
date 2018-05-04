@@ -2,7 +2,7 @@
 
 # Swear Word Spammer
 
-App that let's you spam swear words to friends with sms.
+Spam swear words with sms.
 
 ## Screencapture
 
