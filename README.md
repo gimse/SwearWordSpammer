@@ -1,6 +1,6 @@
 # Swear Word Spammer
 
-A app that let's you spam swear words to friends through SMS.
+App that let's you spam swear words to friends with sms.
 
 ## Screencapture
 
