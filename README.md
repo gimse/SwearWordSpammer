@@ -3,12 +3,6 @@
 # Swear Word Spammer 
 App that let's you spam swear words with sms. 
 
-## Getting started
-
-The app is avaliable at Google Play.
-
-<a href='https://play.google.com/'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="46"/></a>
-
 ## Screencapture
 
 ![Screenshot1](Screenshot1_resized.png)  ![Screenshot2](Screenshot2_resized.png)
