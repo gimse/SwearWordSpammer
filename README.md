@@ -6,7 +6,7 @@ App that let's you spam swear words to friends with sms.
 
 ## Screencapture
 
-![Screenshot1](Screenshot1_resized.png)  ![Screenshot2](Screenshot1_resized.png)
+![Screenshot1](Screenshot1_resized.png)  ![Screenshot2](Screenshot2_resized.png)
 
 ## Built With
 
