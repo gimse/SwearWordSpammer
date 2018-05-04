@@ -1,9 +1,9 @@
 ![Promoimage](promobilde.png)
 
-# Swear Word Spammer
+# Swear Word Spammer <a href='https://play.google.com/store/apps/details?id=com.easybrain.sudoku.android&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="46"/></a>
 
-App that let's you spam swear words with sms. <a href='https://play.google.com/store/apps/details?id=com.easybrain.sudoku.android&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="46"/></a>
 
+App that let's you spam swear words with sms. 
 ## Screencapture
 
 ![Screenshot1](Screenshot1_resized.png)  ![Screenshot2](Screenshot2_resized.png)
